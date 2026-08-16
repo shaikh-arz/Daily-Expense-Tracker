@@ -29,7 +29,7 @@ This project was created using Python and is suitable for beginners who want to 
 1. Clone this repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/shaikh-arz/Daily-Expense-Tracker
 ```
 
 2. Open the project folder:
