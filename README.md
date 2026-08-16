@@ -29,7 +29,7 @@ This project was created using Python and is suitable for beginners who want to 
 1. Clone this repository:
 
 ```bash
-https://github.com/shaikh-arz/Daily-Expense-Tracker
+(https://github.com/shaikh-arz/Daily-Expense-Tracker)
 ```
 
 2. Open the project folder:
@@ -46,7 +46,8 @@ python expense_tracker.py
 
 ## 📸 Demo
 
-daily-expense-tracker-screenshot.png
+[📸 View Screenshot](daily-expense-tracker-screenshot.png)
+
 
 ## 🎯 Future Improvements
 
