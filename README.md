@@ -61,5 +61,3 @@ Add screenshots of your application here.
 **Mohd Ariz**
 
 If you like this project, ⭐ the repository!
-# Daily-Expense-Tracker
-A Python project for tracking daily expenses, managing spending, and keeping personal finances organized.
