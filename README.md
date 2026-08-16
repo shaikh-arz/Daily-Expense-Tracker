@@ -46,7 +46,7 @@ python expense_tracker.py
 
 ## 📸 Demo
 
-Add screenshots of your application here.
+daily-expense-tracker-screenshot.png
 
 ## 🎯 Future Improvements
 
