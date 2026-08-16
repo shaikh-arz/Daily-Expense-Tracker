@@ -35,7 +35,7 @@ This project was created using Python and is suitable for beginners who want to 
 2. Open the project folder:
 
 ```bash
-cd Daily-Expense-Tracker
+[cd Daily-Expense-Tracker](https://github.com/shaikh-arz/Daily-Expense-Tracker)
 ```
 
 3. Run the Python file:
